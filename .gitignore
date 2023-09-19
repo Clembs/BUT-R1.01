@@ -1,3 +1,6 @@
 *.ali
 *.o
 *.exe
+*.stderr
+*.stdout
+*.bexch
