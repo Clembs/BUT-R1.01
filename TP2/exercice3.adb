@@ -1,12 +1,12 @@
-with Ada.Text_IO; use Ada.Text_IO;
+with Ada.Text_IO;         use Ada.Text_IO;
 with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 
 procedure Exercice3 is
   Nombre_Utilisateur : Integer;
   -- On définit les nombres minimums et
   -- maximums possibles
-  Nombre_Min : Integer := 10;
-  Nombre_Max : Integer := 20;
+  Nombre_Min         : Integer := 10;
+  Nombre_Max         : Integer := 20;
 begin
   -- On demande à l'utilisateur de choisir
   -- un nombre
@@ -27,6 +27,6 @@ begin
 
   -- Si la réponse convient, on en informe l'utilisateur
   if Nombre_Utilisateur <= Nombre_Max and Nombre_Utilisateur >= Nombre_Min then
-    Put_Line("Le nombre convient !");
+    Put_Line ("Le nombre convient !");
   end if;
 end Exercice3;
