@@ -1022,11 +1022,11 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   C:\Projects\BUT\R1.01\TP4\traceurTrait\traceur_callbacks.o
-   --   C:\Projects\BUT\R1.01\TP4\traceurTrait\Traceur.o
-   --   C:\Projects\BUT\R1.01\TP4\traceurTrait\trait.o
-   --   -LC:\Projects\BUT\R1.01\TP4\traceurTrait\
-   --   -LC:\Projects\BUT\R1.01\TP4\traceurTrait\
+   --   C:\Projects\BUT\R1.01\TP4\croix\traceur_callbacks.o
+   --   C:\Projects\BUT\R1.01\TP4\croix\Traceur.o
+   --   C:\Projects\BUT\R1.01\TP4\croix\trait.o
+   --   -LC:\Projects\BUT\R1.01\TP4\croix\
+   --   -LC:\Projects\BUT\R1.01\TP4\croix\
    --   -LC:\GtkAda\lib\gtkada\gtkada.static\gtkada\
    --   -LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
    --   -static

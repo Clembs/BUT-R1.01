@@ -1,6 +1,6 @@
 with "gtkada";
 
-project genererDessin is
+project trait is
 
    for Main use ("trait.adb");
    
@@ -13,5 +13,5 @@ project genererDessin is
     for Default_Switches ("ada") use ("-nM");
    end Pretty_Printer;
 
-end genererDessin;
+end trait;
 
