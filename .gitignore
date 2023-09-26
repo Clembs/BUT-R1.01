@@ -4,5 +4,5 @@
 *.stderr
 *.stdout
 *.bexch
-*.ads
+b__*.ads
 b__*.adb
